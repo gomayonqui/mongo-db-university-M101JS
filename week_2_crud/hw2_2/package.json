@@ -1,0 +1,13 @@
+{
+  "name": "hw2-2",
+  "version": "0.0.0",
+  "description": "Homework 2.2",
+  "main": "answer.js",
+  "dependencies": {
+    "request": "~2.36.0",
+    "mongodb": "~1.4.7"
+  },
+  "author": "Jean Pierre Guarin",
+  "license": "BSD",
+  "private": false
+}
